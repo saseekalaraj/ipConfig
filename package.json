@@ -1,19 +1,25 @@
 {
-  "name": "ipConfigCodelanticSasee",
+  "name": "ipconfig",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/saseekalaraj/ipConfig.git"
   },
+  "keywords": [
+    "ipConfig"
+  ],
+  "author": "saseekalaraj",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/saseekalaraj/ipConfig/issues"
+  },
+  "homepage": "https://github.com/saseekalaraj/ipConfig#readme"
 }

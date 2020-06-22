@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saseekalaraj/ipConfig.git"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
